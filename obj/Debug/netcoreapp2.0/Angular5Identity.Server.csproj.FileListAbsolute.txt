@@ -1,0 +1,10 @@
+E:\angular4\Angular5Identity\Angular5Identity.Server\obj\Debug\netcoreapp2.0\Angular5Identity.Server.csproj.CoreCompileInputs.cache
+E:\angular4\Angular5Identity\Angular5Identity.Server\obj\Debug\netcoreapp2.0\Angular5Identity.Server.AssemblyInfoInputs.cache
+E:\angular4\Angular5Identity\Angular5Identity.Server\obj\Debug\netcoreapp2.0\Angular5Identity.Server.AssemblyInfo.cs
+E:\angular4\Angular5Identity\Angular5Identity.Server\bin\Debug\netcoreapp2.0\Angular5Identity.Server.deps.json
+E:\angular4\Angular5Identity\Angular5Identity.Server\bin\Debug\netcoreapp2.0\Angular5Identity.Server.runtimeconfig.json
+E:\angular4\Angular5Identity\Angular5Identity.Server\bin\Debug\netcoreapp2.0\Angular5Identity.Server.runtimeconfig.dev.json
+E:\angular4\Angular5Identity\Angular5Identity.Server\bin\Debug\netcoreapp2.0\Angular5Identity.Server.dll
+E:\angular4\Angular5Identity\Angular5Identity.Server\bin\Debug\netcoreapp2.0\Angular5Identity.Server.pdb
+E:\angular4\Angular5Identity\Angular5Identity.Server\obj\Debug\netcoreapp2.0\Angular5Identity.Server.dll
+E:\angular4\Angular5Identity\Angular5Identity.Server\obj\Debug\netcoreapp2.0\Angular5Identity.Server.pdb
